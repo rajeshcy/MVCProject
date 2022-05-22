@@ -1,0 +1,1 @@
+﻿select distinct Genre from movie order by Genre
